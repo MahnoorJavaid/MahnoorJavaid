@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MahnoorJavaid
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/ CSS/ JavaScript
-- 💞️ I’m looking to collaborate on projects
-- 📫 Email : mahnoor.javaid.04@gmail.com
+👋 Hi, I’m @MahnoorJavaid
+👀 I’m an AI enthusiast
+🌱 I’m currently learning AI-related areas like Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Machine Learning (ML), and Deep Learning (DL)
+💞️ I’m looking to collaborate on AI projects
+📫 Email: mahnoor.javaid.04@gmail.com
 
 <!---
 MahnoorJavaid/MahnoorJavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
