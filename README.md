@@ -1,18 +1,16 @@
-Here's the revised version with each area on a new line:
+AI Engineer @ Zigron | Software Engineer | Gold Microsoft Learn Student Ambassador | Building intelligent, scalable AI systems 🚀
 
-```markdown
-👋 Hi, I’m @MahnoorJavaid  
-👀 I’m an AI enthusiast  
-🌱 I’m currently learning AI-related areas like:  
-- Artificial Neural Networks (ANN)  
-- Convolutional Neural Networks (CNN)  
-- Machine Learning (ML)  
-- Deep Learning (DL)  
-💞️ I’m looking to collaborate on AI projects  
-📫 Email: mahnoor.javaid.04@gmail.com  
-```
 
-<!---
-MahnoorJavaid/MahnoorJavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Core Technologies
+
+Python · Machine Learning · Deep Learning · Generative AI · REST APIs · Microservices · React · Git
+
+🌱 Engineering Interests
+
+I'm particularly interested in LLM-powered applications, intelligent automation, scalable AI architectures, and reliable AI systems.
+
+🤝 Let's Connect
+
+I'm always interested in connecting with people working on AI, software engineering, and impactful technology products.
+
+LinkedIn: Mahnoor Javaid
