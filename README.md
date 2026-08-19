@@ -1,16 +1,18 @@
-AI Engineer @ Zigron | Software Engineer | Gold Microsoft Learn Student Ambassador | Building intelligent, scalable AI systems 🚀
+# Mahnoor Javaid
 
+**AI Engineer @ Zigron | Software Engineer | Gold Microsoft Learn Student Ambassador**
 
-🛠️ Core Technologies
+Building **intelligent, scalable AI systems** with a focus on practical AI engineering and production-ready software.
 
-Python · Machine Learning · Deep Learning · Generative AI · REST APIs · Microservices · React · Git
+## Core Expertise
 
-🌱 Engineering Interests
+**AI & ML:** Python · Machine Learning · Deep Learning · Generative AI
+**Engineering:** REST APIs · Microservices · React · Git
 
-I'm particularly interested in LLM-powered applications, intelligent automation, scalable AI architectures, and reliable AI systems.
+## Engineering Focus
 
-🤝 Let's Connect
+Interested in **LLM-powered applications, intelligent automation, scalable AI architectures, and reliable AI systems**.
 
-I'm always interested in connecting with people working on AI, software engineering, and impactful technology products.
+## Connect
 
-🔗 [LinkedIn — Mahnoor Javaid](https://www.linkedin.com/in/mahnoor-javaid/)
+[**LinkedIn — Mahnoor Javaid**](https://www.linkedin.com/in/mahnoor-javaid/)
