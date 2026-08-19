@@ -13,4 +13,4 @@ I'm particularly interested in LLM-powered applications, intelligent automation,
 
 I'm always interested in connecting with people working on AI, software engineering, and impactful technology products.
 
-LinkedIn: Mahnoor Javaid
+🔗 [LinkedIn — Mahnoor Javaid](https://www.linkedin.com/in/mahnoor-javaid/)
